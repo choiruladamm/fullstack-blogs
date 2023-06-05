@@ -24,9 +24,9 @@ export const links = [
     title: "Contact",
     url: "/contact",
   },
-  {
-    id: 6,
-    title: "Dashboard",
-    url: "/dashboard",
-  },
+  // {
+  //   id: 6,
+  //   title: "Dashboard",
+  //   url: "/dashboard",
+  // },
 ];
