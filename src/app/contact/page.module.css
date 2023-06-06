@@ -21,6 +21,7 @@
 
 .image {
   object-fit: contain;
+  animation: move 2s infinite ease alternate;
 }
 
 @keyframes move {
