@@ -2,8 +2,8 @@
 }
 
 .title {
-  font-size: 60px;
-  margin-bottom: 100px;
+  font-size: 45px;
+  margin-bottom: 50px;
   text-align: center;
 }
 
@@ -15,7 +15,7 @@
 
 .imgContainer {
   flex: 1;
-  height: 500px;
+  height: 450px;
   position: relative;
 }
 
@@ -45,7 +45,8 @@
   background-color: transparent;
   border: none;
   outline: none;
-  border: 3px solid #bbb;
+  color: #bbb;
+  border: 2px solid #bbb;
   font-size: 20px;
   font-weight: 400;
 }
